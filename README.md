@@ -1,2 +1,2 @@
 # bookbot
-my first porject!
+my first project!
