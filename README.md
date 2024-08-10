@@ -1,2 +1,2 @@
 # bookbot
-Bookbot is my first porject!
+my first porject!
